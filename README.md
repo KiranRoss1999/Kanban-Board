@@ -27,33 +27,37 @@ THEN the saved tasks persist
 
 ## Installation 
 
-There are no special requirements in order to install or run this program.
+There are no special requirements in order to install or run this program, please follow the hyperlink below to website page.
 
 ## Mock-Up
 
-The following animation shows the web application's appearance and functionality:
+The following animation shows the web application's appearance and functionality and what I was looking to create.
+
+![example gif](./assets/images/example%20gif.gif)
 
 Example 1: As you can see in this image this shows that dependent on the date, the boxes will change colour. If the item is due the same day ti will be yellow. If it is overdue it will be read and if it is still to be complete it will be white.
 
-![example 1](./Develop/assets/images/example1.PNG)
+![example 1](./assets/images/example1.PNG)
 
 Example 2: This shows the functionality of the Kanban Board, once all the items are in the complete coloumn, the colour will change to white to show that it is no longer urgent or pending.
 
-![example 2](./Develop/assets/images/example2.PNG)
+![example 2](./assets/images/example2.PNG)
 
 Example 3: This shows the functional date clicker as required in the acceptance criteria.
 
-![example 3](./Develop/assets/images/example3.PNG)
+![example 3](./assets/images/example3.PNG)
 
 ## Live Demo Link
-https://kiranross1999.github.io/Professional-Portfolio/
+https://kiranross1999.github.io/Kanban-Board/
 
 ## GitHub Link
 https://github.com/KiranRoss1999/Professional-Portfolio
 
-## Usage
-
 ## Credits
-[W3Schools - HTML Tutorial](https://www.w3schools.com/html/) by W3Schools
-[MDN Web Docs - CSS Layout and Media Queries by MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Media_queries) by Mozilla Developer Network
-[Background Images](https://images.google.com/) by Google
+
+MDN Web Docs - JavaScript by Mozilla
+freeCodeCamp - Web Development by freeCodeCamp
+Stack Overflow by Stack Exchange Inc.
+CSS-Tricks - CSS by Chris Coyier
+jQuery Learning Center by jQuery Foundation
+Bootstrap Documentation by Bootstrap Team
